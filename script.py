@@ -62,14 +62,13 @@ Available commands:-
 ➜ To Set Thumbnail just send photo
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/Snowball_Official>ѕησωвαℓℓ ❄️</a>
+<b>⦿ Developer:</b> <a href=https://t.me/BetterProffesor>𝖲𝗎𝗁𝖺𝗂𝗅 𝖤𝖻𝗋𝖺𝗁𝗂𝗆</a>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : @{}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Snowball_Official>𝓢𝓝𝓞𝓦𝓑𝓐𝓛𝓛</a>
-├👑 Instagram : <a href=https://www.instagram.com/ritesh6_>C-Insta</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+mCdsJ7mjeBEyZWQ1>K-Lᴀɴᴅ</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/BetterProffesor>𝖲𝗎𝗁𝖺𝗂𝗅 𝖤𝖻𝗋𝖺𝗁𝗂𝗆</a>
+├👑 Leech Grp : <a href=https://t.me/PrimeLeechGroup>PL Leech</a> 
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
